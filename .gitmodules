@@ -1,0 +1,3 @@
+[submodule "vgui2"]
+	path = vgui2
+	url = https://github.com/BlackPhrase/vgui2-reimp
